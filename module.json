@@ -52,7 +52,8 @@
 			"type": "system"
 		},
 		{
-			"name": "GenesysRu-CoreCompendiums"
+			"name": "GenesysRu-CoreCompendiums",
+			"manifest": "https://raw.githubusercontent.com/AlexToxin/GenesysRu-CoreCompendiums/master/module.json"
 		}
 	],
 	"authors": [
