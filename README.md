@@ -1,6 +1,4 @@
 # GenesysRu-CoreCompendiums-Steampunk
-<h1>Requirements</h1>
-GenesysRu-CoreCompendiums is required https://raw.githubusercontent.com/AlexToxin/GenesysRu-CoreCompendiums/master/module.json
 <h1>Installation</h1>
 <ol>
   <li>Open Foundry VTT</li>
