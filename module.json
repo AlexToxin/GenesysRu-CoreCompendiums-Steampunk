@@ -1,14 +1,14 @@
 {
-	"name": "GenesysRu-BaseCompendiums-Steampunk",
-	"title": "Genesys Base Compendiums Steampunk (RU)",
+	"name": "GenesysRu-CoreCompendiums-Steampunk",
+	"title": "Genesys Core Compendiums Steampunk (RU)",
 	"description": "Данные базы Genesys сеттинга Стимпанк",
 	"author": "AlexToxin",
-	"version": "0.5.0",
+	"version": "0.5.1",
 	"minimumCoreVersion": "0.8.6",
 	"compatibleCoreVersion": "0.8.8",
-	"url": "https://github.com/AlexToxin/GenesysRu-BaseCompendiums-Steampunk",
-	"manifest": "https://raw.githubusercontent.com/AlexToxin/GenesysRu-BaseCompendiums-Steampunk/master/module.json",
-	"download": "https://github.com/AlexToxin/GenesysRu-BaseCompendiums-Steampunk/archive/refs/heads/master.zip",
+	"url": "https://github.com/AlexToxin/GenesysRu-CoreCompendiums-Steampunk",
+	"manifest": "https://raw.githubusercontent.com/AlexToxin/GenesysRu-CoreCompendiums-Steampunk/master/module.json",
+	"download": "https://github.com/AlexToxin/GenesysRu-CoreCompendiums-Steampunk/archive/refs/heads/master.zip",
 	"packs": [
 		{
 			"label": "База (Стимпанк) - Архетипы",
@@ -52,7 +52,7 @@
 			"type": "system"
 		},
 		{
-			"name": "GenesysRu-BaseCompendiums"
+			"name": "GenesysRu-CoreCompendiums"
 		}
 	],
 	"authors": [
