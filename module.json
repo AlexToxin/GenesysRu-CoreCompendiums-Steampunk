@@ -1,0 +1,69 @@
+{
+	"name": "GenesysRu-BaseCompendiums-Steampunk",
+	"title": "Genesys Base Compendiums Steampunk (RU)",
+	"description": "Данные базы Genesys сеттинга Стимпанк",
+	"author": "AlexToxin",
+	"version": "0.1.0",
+	"minimumCoreVersion": "0.8.6",
+	"compatibleCoreVersion": "0.8.8",
+	"url": "https://github.com/AlexToxin/GenesysRu-BaseCompendiums-Steampunk",
+	"manifest": "https://raw.githubusercontent.com/AlexToxin/GenesysRu-BaseCompendiums-Steampunk/master/module.json",
+	"download": "https://github.com/AlexToxin/GenesysRu-BaseCompendiums-Steampunk/archive/refs/heads/master.zip",
+	"packs": [
+		{
+			"label": "База (Стимпанк) - Архетипы",
+			"entity": "Item",
+			"name": "baza-stimpank-arhetipy",
+			"path": "packs/baza-stimpank-arhetipy.db",
+			"system": "starwarsffg"
+		  },
+		  {
+			"label": "База (Стимпанк) - Оружие",
+			"entity": "Item",
+			"name": "baza-stimpank-oruzhie",
+			"path": "packs/baza-stimpank-oruzhie.db",
+			"system": "starwarsffg"
+		  },
+		  {
+			"label": "База (Стимпанк) - Броня",
+			"entity": "Item",
+			"name": "baza-stimpank-bronya",
+			"path": "packs/baza-stimpank-bronya.db",
+			"system": "starwarsffg"
+		  },
+		  {
+			"label": "База (Стимпанк) - Экипировка",
+			"entity": "Item",
+			"name": "baza-stimpank-ekipirovka",
+			"path": "packs/baza-stimpank-ekipirovka.db",
+			"system": "starwarsffg"
+		  },
+		  {
+			"label": "База (Стимпанк) - Противники",
+			"entity": "Actor",
+			"name": "baza-stimpank-protivniki",
+			"path": "packs/baza-stimpank-protivniki.db",
+			"system": "starwarsffg"
+		  }
+	],
+	"dependencies": [
+		{
+			"name": "starwarsffg",
+			"type": "system"
+		},
+		{
+			"name": "GenesysRu-BaseCompendiums"
+		}
+	],
+	"authors": [
+		{
+			"name": "AlexToxin"
+		},
+		{
+			"name": "Florintini"
+		},
+		{
+			"name": "Blackburn"
+		}
+	]
+}
